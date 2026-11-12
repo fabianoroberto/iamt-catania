@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "_default": {
+      "link": "iAMT Catania"
+    },
+    "iAMT Catania": {
+      "applicationId": "mnwxvUhd6TFmpnrcRVABbEvVVysQXeftTMrsCIX0",
+      "masterKey": "BagjdKaQfCrEydhrHz1cbMC39IkT28GmziQfjs0M"
+    }
+  }
+}

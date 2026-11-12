@@ -1,0 +1,89 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - Facebook-iOS-SDK (3.24.4):
+    - Bolts (~> 1.2)
+  - IQKeyboardManager (4.0.7)
+  - MBProgressHUD (0.9.2)
+  - NSDate+TimeAgo (1.0.6)
+  - Parse (1.14.2):
+    - Bolts/Tasks (~> 1.8)
+  - ParseCrashReporting (1.9.2):
+    - Bolts/Tasks (~> 1.5)
+    - Parse (~> 1.9)
+  - ParseFacebookUtils (1.10.0):
+    - Bolts/Tasks (~> 1.5)
+    - Facebook-iOS-SDK (~> 3.24)
+    - Parse (~> 1.9)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SVPullToRefresh (0.4.1)
+  - UIDeviceIdentifier (1.0.3)
+  - UITextView+Placeholder (1.2.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.4)
+  - IQKeyboardManager
+  - MBProgressHUD (~> 0.9.1)
+  - NSDate+TimeAgo
+  - Parse
+  - ParseCrashReporting
+  - ParseFacebookUtils
+  - SDWebImage (~> 3.7)
+  - SVPullToRefresh
+  - UIDeviceIdentifier (from `https://github.com/squarefrog/UIDeviceIdentifier.git`)
+  - UITextView+Placeholder
+
+EXTERNAL SOURCES:
+  UIDeviceIdentifier:
+    :git: https://github.com/squarefrog/UIDeviceIdentifier.git
+
+CHECKOUT OPTIONS:
+  UIDeviceIdentifier:
+    :commit: bcc9af933399c816a22ad568f01e606b287583f8
+    :git: https://github.com/squarefrog/UIDeviceIdentifier.git
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  Facebook-iOS-SDK: 5a7c414a084708220b72d5fd016f2cf3eb6deda4
+  IQKeyboardManager: 69002bb4fea60596b710e57d426abc00e5063630
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  NSDate+TimeAgo: 35601c619b2d59290055e4fe76e61d97677a2360
+  Parse: 4335d65f40cb3d43190d723144bbe1afb9c38230
+  ParseCrashReporting: 33b760facc649d4fd99eef8f35dcda6a406099e5
+  ParseFacebookUtils: 7030f53c989fda36ad50029d90edec1327424317
+  SDWebImage: '098e97e6176540799c27e804c96653ee0833d13c'
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+  UIDeviceIdentifier: 3d1bf1348e27546c8ebeef2f02ce11ddb32730e7
+  UITextView+Placeholder: 77680995fcdd07c3f52ec92fe1150874a2ac89ff
+
+PODFILE CHECKSUM: 476af561cc96f84aa6966da78e447f32665621ff
+
+COCOAPODS: 1.1.1

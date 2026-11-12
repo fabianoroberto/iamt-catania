@@ -1,0 +1,66 @@
+
+/* Class = "IBUINavigationItem"; title = "Search Result"; ObjectID = "0o8-MR-Zng"; */
+"0o8-MR-Zng.title" = "Search Result";
+
+/* Class = "IBUILabel"; text = "Departure"; ObjectID = "8UA-Me-U2t"; */
+"8UA-Me-U2t.text" = "Departure";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "BS2-Rk-jHi"; */
+"BS2-Rk-jHi.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Fwr-aa-HdU"; */
+"Fwr-aa-HdU.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Lines"; ObjectID = "Jxb-71-jRD"; */
+"Jxb-71-jRD.title" = "Lines";
+
+/* Class = "IBUITabBarItem"; title = "Info"; ObjectID = "MBh-Ls-kQz"; */
+"MBh-Ls-kQz.title" = "Info";
+
+/* Class = "IBUILabel"; text = "Alternative"; ObjectID = "MnD-UE-ZEf"; */
+"MnD-UE-ZEf.text" = "Alternative";
+
+/* Class = "IBUINavigationItem"; title = "Info"; ObjectID = "RYe-N2-7Q3"; */
+"RYe-N2-7Q3.title" = "Info";
+
+/* Class = "IBUINavigationItem"; title = "Menu Line"; ObjectID = "UvA-Ug-ZSi"; */
+"UvA-Ug-ZSi.title" = "Menu Line";
+
+/* Class = "IBUITabBarItem"; title = "Search Line"; ObjectID = "aC8-RU-kjp"; */
+"aC8-RU-kjp.title" = "Search Line";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "bfF-hW-94W"; */
+"bfF-hW-94W.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "c3c-aD-SMs"; */
+"c3c-aD-SMs.text" = "Subtitle";
+
+/* Class = "IBUINavigationItem"; title = "Search Line"; ObjectID = "dRp-Qa-Dmx"; */
+"dRp-Qa-Dmx.title" = "Search Line";
+
+/* Class = "IBUILabel"; text = "Search by ray: 500m"; ObjectID = "fmD-zi-Rv1"; */
+"fmD-zi-Rv1.text" = "Search by ray: 500m";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "hAG-Un-c4i"; */
+"hAG-Un-c4i.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "jPe-HJ-aWC"; */
+"jPe-HJ-aWC.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "kLt-60-5Iy"; */
+"kLt-60-5Iy.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "nAU-DP-LUN"; */
+"nAU-DP-LUN.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "oQG-mM-cF6"; */
+"oQG-mM-cF6.text" = "Label";
+
+/* Class = "IBUITabBarItem"; title = "Proximity"; ObjectID = "uCu-Yd-UBI"; */
+"uCu-Yd-UBI.title" = "Proximity";
+
+/* Class = "IBUINavigationItem"; title = "Search by ray"; ObjectID = "yts-GS-3AP"; */
+"yts-GS-3AP.title" = "Search by ray";
+
+/* Class = "IBUITabBarItem"; title = "Lines"; ObjectID = "zlV-Ie-79k"; */
+"zlV-Ie-79k.title" = "Lines";

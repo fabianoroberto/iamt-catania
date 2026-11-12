@@ -1,0 +1,57 @@
+/* 
+  Strings.strings
+  iamtcatania
+
+  Created by Dr Thief on 05/01/14.
+  Copyright (c) 2014 Dr Thief. All rights reserved.
+*/
+
+/* Lines */
+"searchLines" = "Search between lines";
+"searchResults" = "Search Results";
+"section" = "Section";
+"lineMenu" = "Line menu";
+"errorDownloadDataMessage" = "Error occurred while downloading data. Please try again later!";
+"pleaseWait" = "Please wait!";
+"downloading" = "Downloading ...";
+"dateFormatter" = "MMM d, h:mm a";
+"lastUpdate" = "Last update";
+"noLine" = "No data is currently available. Please pull down to refresh.";
+"noResult" = "No line match to the search criteria.";
+
+"weekdays" = "Weekdays";
+"holidays" = "Holidays";
+"routes" = "Routes";
+"next10departuresBR" = "Next \n10 Departures";
+"next10departures" = "Next 10 Departures";
+"lineMap" = "Line Map";
+"warning" = "Warning!";
+"mapNotAvailable" = "Map is not available for the line";
+"linePDF" = "Line PDF";
+"error" = "Error!";
+"featureNotAvailable" = "Feature not available";
+
+"noData" = "No Data";
+"anErrorWasOccurred" = "An error was occurred";
+
+/* Maps */
+"saved" = "Saved";
+"ray" = "Ray";
+"noLineWithinXm" = "No line within the ray of %.fm";
+
+/* Search */
+"departure" = "Departure";
+"destination" = "Destination";
+"alternative" = "Alternative";
+"distance" = "Distance";
+"insertDepartureAndDestination" = "Please insert departure and destination!";
+
+/* Info */
+"version" = "Version";
+"writeHere..." = "Write something here ...";
+"back" = "Back";
+"messageNotSent!" = "Message not sent!";
+"errorSentEmail" = "It was not possible to send your email";
+"cancel" = "Cancel";
+"buy" = "Buy";
+"ticketSubscriptions" = "Tickets and electronic subscriptions";

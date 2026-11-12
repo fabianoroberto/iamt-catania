@@ -1,0 +1,57 @@
+/* 
+  Strings.strings
+  iamtcatania
+
+  Created by Dr Thief on 05/01/14.
+  Copyright (c) 2014 Dr Thief. All rights reserved.
+*/
+
+/* Lines */
+"searchLines" = "Cerca tra le linee";
+"searchResults" = "Risultati Ricerca";
+"section" = "Sezione";
+"lineMenu" = "Menu linea";
+"errorDownloadDataMessage" = "Errore durante il download dei dati. Riprova pià tardi!";
+"pleaseWait" = "Attendere per favore!";
+"downloading" = "Download in corso ...";
+"dateFormatter" = "d MMM, HH:mm";
+"lastUpdate" = "Ultimo aggiornamento";
+"noLine" = "Nessuna linea è attualmente disponibile. Per favore scorri giù per ricaricare.";
+"noResult" = "Nessuna linea corrisponde ai criteri di ricerca.";
+
+"weekdays" = "Orari Feriali";
+"holidays" = "Orari Festivi";
+"routes" = "Percorsi";
+"next10departuresBR" = "Prossime \n10 Partenze";
+"next10departures" = "Prossime 10 Partenze";
+"lineMap" = "Mappa Linea";
+"warning" = "Attenzione!";
+"mapNotAvailable" = "Mappa non disponibile per la linea";
+"linePDF" = "PDF linea";
+"error" = "Errore!";
+"featureNotAvailable" = "Funzionalità non disponibile";
+
+"noData" = "Nessun Dato";
+"anErrorWasOccurred" = "C'è stato un errore";
+
+/* Maps */
+"saved" = "Salvato";
+"ray" = "Raggio";
+"noLineWithinXm" = "Nessuna linea entro il raggio di %.fm";
+
+/* Search */
+"departure" = "Partenza";
+"destination" = "Destinazione";
+"alternative" = "Alternativa";
+"distance" = "Distanza";
+"insertDepartureAndDestination" = "Inserisci partenza e destinazione!";
+
+/* Info */
+"version" = "Versione";
+"writeHere..." = "Scrivi qualcosa qui ...";
+"back" = "Indietro";
+"messageNotSent!" = "Messaggio non inviato!";
+"errorSentEmail" = "Non è stato possibile inviare la tua email";
+"cancel" = "Annulla";
+"buy" = "Acquista";
+"ticketSubscriptions" = "Biglietti e abbonamenti elettronici";

@@ -1,0 +1,75 @@
+
+/* Class = "IBUINavigationItem"; title = "Search Result"; ObjectID = "89W-mR-APZ"; */
+"89W-mR-APZ.title" = "Search Result";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "8o8-ep-iG3"; */
+"8o8-ep-iG3.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Info"; ObjectID = "8yc-i0-scf"; */
+"8yc-i0-scf.title" = "Info";
+
+/* Class = "IBUILabel"; text = "Search by ray: 500m"; ObjectID = "91a-rM-9Zc"; */
+"91a-rM-9Zc.text" = "Search by ray: 500m";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "FJb-91-ru7"; */
+"FJb-91-ru7.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "KNy-Id-Z4S"; */
+"KNy-Id-Z4S.text" = "Label";
+
+/* Class = "IBUITabBarItem"; title = "Info"; ObjectID = "QwU-gE-utq"; */
+"QwU-gE-utq.title" = "Info";
+
+/* Class = "IBUITabBarItem"; title = "Lines"; ObjectID = "Slc-KS-X4n"; */
+"Slc-KS-X4n.title" = "Lines";
+
+/* Class = "IBUINavigationItem"; title = "Search Line"; ObjectID = "TEV-Hu-uSU"; */
+"TEV-Hu-uSU.title" = "Search Line";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "YNH-ZO-Kwi"; */
+"YNH-ZO-Kwi.text" = "Title";
+
+/* Class = "IBUISearchBar"; placeholder = "Search"; ObjectID = "b3N-03-CvW"; */
+"b3N-03-CvW.placeholder" = "Search";
+
+/* Class = "IBUISearchBar"; b3N-03-CvW.scopeButtonTitles[0] = "Title"; ObjectID = "b3N-03-CvW"; */
+"b3N-03-CvW.scopeButtonTitles[0]" = "Title";
+
+/* Class = "IBUISearchBar"; b3N-03-CvW.scopeButtonTitles[1] = "Title"; ObjectID = "b3N-03-CvW"; */
+"b3N-03-CvW.scopeButtonTitles[1]" = "Title";
+
+/* Class = "IBUILabel"; text = "Alternative"; ObjectID = "dmb-QY-nnE"; */
+"dmb-QY-nnE.text" = "Alternative";
+
+/* Class = "IBUITabBarItem"; title = "Search Line"; ObjectID = "eml-91-Jbd"; */
+"eml-91-Jbd.title" = "Search Line";
+
+/* Class = "IBUILabel"; text = "Departure"; ObjectID = "eqj-T5-Ab6"; */
+"eqj-T5-Ab6.text" = "Departure";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "foF-s4-HMo"; */
+"foF-s4-HMo.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "gaO-7C-MTY"; */
+"gaO-7C-MTY.text" = "Subtitle";
+
+/* Class = "IBUITabBarItem"; title = "Proximity"; ObjectID = "lK9-dS-vCT"; */
+"lK9-dS-vCT.title" = "Proximity";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "nSi-yL-ulg"; */
+"nSi-yL-ulg.text" = "Detail";
+
+/* Class = "IBUINavigationItem"; title = "Search by ray"; ObjectID = "qjh-Ma-zQQ"; */
+"qjh-Ma-zQQ.title" = "Search by ray";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "r58-eZ-Im8"; */
+"r58-eZ-Im8.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Lines"; ObjectID = "s4A-if-Vpl"; */
+"s4A-if-Vpl.title" = "Lines";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "tOn-ra-gi1"; */
+"tOn-ra-gi1.text" = "Subtitle";
+
+/* Class = "IBUINavigationItem"; title = "Menu Line"; ObjectID = "u7j-z1-bn3"; */
+"u7j-z1-bn3.title" = "Menu Line";
